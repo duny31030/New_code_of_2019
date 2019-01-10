@@ -61,14 +61,14 @@ int main()
 		int tmp1 = (in[0]-'0')*10+(in[1]-'0');
 		int tmp2 = (in[3]-'0')*10+(in[4]-'0');
 		int tmp3 = (in[6]-'0')*10+(in[7]-'0');
-		tmp1 = tmp1*12*60;
+		tmp1 = tmp1*60*60;
 		tmp1 += tmp2*60;
 		tmp1 += tmp3;
 		p[i].in = tmp1;
 		tmp1 = (out[0]-'0')*10+(out[1]-'0');
 		tmp2 = (out[3]-'0')*10+(out[4]-'0');
 		tmp3 = (out[6]-'0')*10+(out[7]-'0');
-		tmp1 = tmp1*12*60;
+		tmp1 = tmp1*60*60;
 		tmp1 += tmp2*60;
 		tmp1 += tmp3;
 		p[i].out = tmp1;

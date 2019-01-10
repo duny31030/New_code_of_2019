@@ -2,20 +2,19 @@
 
 ## 数组
 
-|            题目            |    效率     |             备注              |
-| :------------------------: | :---------: | :---------------------------: |
-| [从排序数组中删除重复项]() |             |                               |
-| [买卖股票的最佳时机 II]()  |             |                               |
-|        [旋转数组]()        |             |                               |
-|        [存在重复]()        |             |                               |
-|    [只出现一次的数字]()    |             |                               |
-|   [两个数组的交集 II]()    | 超过100.00% |                               |
-|          [加一]()          | 超过100.00% |                               |
-|         [移动零]()         | 超过98.94%  |                               |
-|        [两数之和]()        | 超过64.86%  |                               |
-|       [有效的数独]()       |             |                               |
-|        [旋转图像]()        | 超过25.78%  | <font color = red>重写</font> |
-|                            |             |                               |
+|                             题目                             |    效率     |             备注              |
+| :----------------------------------------------------------: | :---------: | :---------------------------: |
+| [从排序数组中删除重复项](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/removeDuplicates.cpp) | 超过36.05%  | <font color = red>重写</font> |
+| [买卖股票的最佳时机 II](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/maxProfit.cpp) | 超过99.96%  |                               |
+| [旋转数组](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/rotate.cpp) | 超过99.66%  |                               |
+| [存在重复](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/containsDuplicate.cpp) | 超过56.12%  | <font color = red>重写</font> |
+| [只出现一次的数字](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/singleNumber.cpp) | 超过97.05%  |                               |
+| [两个数组的交集 II](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/intersect.cpp) | 超过100.00% |                               |
+| [加一](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/plusOne.cpp) | 超过100.00% |                               |
+| [移动零](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/moveZeroes.cpp) | 超过98.94%  |                               |
+| [两数之和](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/twoSum.cpp) | 超过64.86%  | <font color = red>重写</font> |
+| [有效的数独](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/isValidSudoku.cpp) | 超过83.01%  | <font color = red>重写</font> |
+| [旋转图像](https://github.com/duny31030/New_code_of_2019/blob/master/LeetCode/Junior/Array/rotateimage.cpp) | 超过25.78%  | <font color = red>重写</font> |
 
 
 
